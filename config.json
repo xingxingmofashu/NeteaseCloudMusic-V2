@@ -1,0 +1,13 @@
+{
+    "limit": 15,
+    "outsideAPI": true,
+    "outsideAPIConfig": {
+        "hostname": "127.0.0.1",
+        "port": 3000
+    },
+    "APIConfig": {
+        "hostname": "127.0.0.1",
+        "port": 3000
+    }
+
+}
